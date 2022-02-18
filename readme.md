@@ -11,7 +11,9 @@ Karabiner 是一個 MacOS 平台的應用程式，它可以對鍵盤做一些客
 
 ## POK3R
 POK3R 的組合鍵我常用的也只有一小部分
+
 ![composite keys](images/Screen Shot 2022-02-18 at 4.37.29 PM.png)
+
 Reference: [Pok3r official manual](http://www.vortexgear.tw/db/upload/webdata4/6vortex_20166523361966663.pdf)
 
 ### Translate to Karabiner key code
@@ -63,4 +65,5 @@ cp pok3r.json ~/.config/karabiner/assets/complex_modifications
 ```
 
 開啟 Karabiner-Elements 將 rule enable.
+
 ![Enable pok3r composite keys](images/Screen Shot 2022-02-18 at 10.32.15 PM 1.png)
